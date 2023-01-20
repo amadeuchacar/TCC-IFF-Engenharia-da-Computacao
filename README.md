@@ -9,3 +9,6 @@ Algumas observações:
 ``
 http://bd.centro.iff.edu.br/handle/123456789/3942
 ``
+- O arquivo do notebook com o código do trabalho pode ser encontrado neste repositório com o nome "TCC_AMADEU_CHACAR.ipynb".
+- Durante a execução do trabalho, foi realizada uma série de execuções e testes utilizando a biblioteca PyCaret. Estes testes foram separados em um arquivo distinto, que pode ser encontrado neste repositório pelo nome "TESTES_PYCARET.ipynb".
+- As pastas dentro do repositório com os nomes "balancos", "cotacoes" e "setores" armazenam os arquivos necessários para a execução do trabalho, visto que não foi implementada uma forma de automatizar a coleta destes, tendo sido, então, armazenados localmente para serem trabalhados.
